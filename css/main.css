@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Arial Narrow';
+    background-image: url(../assets/img/descanso3.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    height: 113vh;
+}
+
+.text{
+    color: #145ea7;
+}
+.mg{
+    margin-left: 1.5rem;
+}
+.margin{
+    margin-left: 3rem;
+}
+
+.btn-date{
+    background-color:  #145ea7;
+    color: white;
+}
